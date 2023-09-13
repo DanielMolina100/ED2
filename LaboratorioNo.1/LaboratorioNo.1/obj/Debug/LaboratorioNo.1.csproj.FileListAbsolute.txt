@@ -1,0 +1,28 @@
+C:\Users\rodri\OneDrive\Documentos\Cursos de la U (landivar)\Estructuras de datos II Lab\LaboratorioNo.1\LaboratorioNo.1\bin\Debug\LaboratorioNo.1.exe.config
+C:\Users\rodri\OneDrive\Documentos\Cursos de la U (landivar)\Estructuras de datos II Lab\LaboratorioNo.1\LaboratorioNo.1\bin\Debug\LaboratorioNo.1.exe
+C:\Users\rodri\OneDrive\Documentos\Cursos de la U (landivar)\Estructuras de datos II Lab\LaboratorioNo.1\LaboratorioNo.1\bin\Debug\LaboratorioNo.1.pdb
+C:\Users\rodri\OneDrive\Documentos\Cursos de la U (landivar)\Estructuras de datos II Lab\LaboratorioNo.1\LaboratorioNo.1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rodri\OneDrive\Documentos\Cursos de la U (landivar)\Estructuras de datos II Lab\LaboratorioNo.1\LaboratorioNo.1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rodri\OneDrive\Documentos\Cursos de la U (landivar)\Estructuras de datos II Lab\LaboratorioNo.1\LaboratorioNo.1\obj\Debug\LaboratorioNo.1.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Documentos\Cursos de la U (landivar)\Estructuras de datos II Lab\LaboratorioNo.1\LaboratorioNo.1\obj\Debug\LaboratorioNo.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\OneDrive\Documentos\Cursos de la U (landivar)\Estructuras de datos II Lab\LaboratorioNo.1\LaboratorioNo.1\obj\Debug\LaboratorioNo._1.Form1.resources
+C:\Users\rodri\OneDrive\Documentos\Cursos de la U (landivar)\Estructuras de datos II Lab\LaboratorioNo.1\LaboratorioNo.1\obj\Debug\LaboratorioNo._1.Properties.Resources.resources
+C:\Users\rodri\OneDrive\Documentos\Cursos de la U (landivar)\Estructuras de datos II Lab\LaboratorioNo.1\LaboratorioNo.1\obj\Debug\LaboratorioNo.1.csproj.GenerateResource.cache
+C:\Users\rodri\OneDrive\Documentos\Cursos de la U (landivar)\Estructuras de datos II Lab\LaboratorioNo.1\LaboratorioNo.1\obj\Debug\LaboratorioNo.1.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\Cursos de la U (landivar)\Estructuras de datos II Lab\LaboratorioNo.1\LaboratorioNo.1\obj\Debug\LaboratorioNo.1.csproj.CopyComplete
+C:\Users\rodri\OneDrive\Documentos\Cursos de la U (landivar)\Estructuras de datos II Lab\LaboratorioNo.1\LaboratorioNo.1\obj\Debug\LaboratorioNo.1.exe
+C:\Users\rodri\OneDrive\Documentos\Cursos de la U (landivar)\Estructuras de datos II Lab\LaboratorioNo.1\LaboratorioNo.1\obj\Debug\LaboratorioNo.1.pdb
+C:\Users\josda\source\repos\LaboratorioNo.1\LaboratorioNo.1\bin\Debug\LaboratorioNo.1.exe.config
+C:\Users\josda\source\repos\LaboratorioNo.1\LaboratorioNo.1\bin\Debug\LaboratorioNo.1.exe
+C:\Users\josda\source\repos\LaboratorioNo.1\LaboratorioNo.1\bin\Debug\LaboratorioNo.1.pdb
+C:\Users\josda\source\repos\LaboratorioNo.1\LaboratorioNo.1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\josda\source\repos\LaboratorioNo.1\LaboratorioNo.1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\josda\source\repos\LaboratorioNo.1\LaboratorioNo.1\obj\Debug\LaboratorioNo.1.csproj.AssemblyReference.cache
+C:\Users\josda\source\repos\LaboratorioNo.1\LaboratorioNo.1\obj\Debug\LaboratorioNo.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\josda\source\repos\LaboratorioNo.1\LaboratorioNo.1\obj\Debug\LaboratorioNo._1.Form1.resources
+C:\Users\josda\source\repos\LaboratorioNo.1\LaboratorioNo.1\obj\Debug\LaboratorioNo._1.Properties.Resources.resources
+C:\Users\josda\source\repos\LaboratorioNo.1\LaboratorioNo.1\obj\Debug\LaboratorioNo.1.csproj.GenerateResource.cache
+C:\Users\josda\source\repos\LaboratorioNo.1\LaboratorioNo.1\obj\Debug\LaboratorioNo.1.csproj.CoreCompileInputs.cache
+C:\Users\josda\source\repos\LaboratorioNo.1\LaboratorioNo.1\obj\Debug\LaboratorioNo.1.csproj.CopyComplete
+C:\Users\josda\source\repos\LaboratorioNo.1\LaboratorioNo.1\obj\Debug\LaboratorioNo.1.exe
+C:\Users\josda\source\repos\LaboratorioNo.1\LaboratorioNo.1\obj\Debug\LaboratorioNo.1.pdb
